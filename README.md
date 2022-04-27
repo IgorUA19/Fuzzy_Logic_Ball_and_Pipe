@@ -5,4 +5,5 @@ This project starts with a physical ball and pipe system that is made up of a ve
 
 
 Theory of Control Method 
-The Fuzzy Logic Controller, FLC, is a control system that runs off the mathematical system known as "Fuzzy Logic". Fuzzy Logic is logic that can handle the concept of partial truth or "partially true". It accomplishes this by having the truth value of variables to be any real number between 0 and 1 and using a Human Based set of rules created by the designer to weigh out the "partial truths" and make a decision based on the rules. In a system the Fuzzy Logic Controller, FLC would take an input called a "crisp input" this would be  
+The Fuzzy Logic Controller, FLC, is a control system that runs off the mathematical system known as "Fuzzy Logic". Fuzzy Logic is logic that can handle the concept of partial truth or "partially true". It accomplishes this by having the truth value of variables to be any real number between 0 and 1 and using a Human Based set of rules created by the designer to weigh out the "partial truths" and make a decision based on the rules.
+In a system the Fuzzy Logic Controller, FLC would take an input called a "crisp input" into the Fuzzifer for Fuzzification, then it takes the converted fuzzy variables to the "Rules" inside the Inference. From the Inerence the fuzzy variables go into the Defuzzifier for Defuzzification  
