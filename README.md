@@ -6,4 +6,4 @@ measured by a time of flight sensor at the top. Our project objective is to bala
 
 
 Theory of Control Method 
-The Fuzzy Logic Controller, FLC, is a control system that runs off the mathematical system known as "Fuzzy Logic". Fuzzy Logic is logic that can handle the concept of partial truth. It does this based on 
+The Fuzzy Logic Controller, FLC, is a control system that runs off the mathematical system known as "Fuzzy Logic". Fuzzy Logic is logic that can handle the concept of partial truth or "partially true". It accomplishes this by having the truth value of variables to be any real number between 0 and 1.  
